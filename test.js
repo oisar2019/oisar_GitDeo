@@ -32,3 +32,4 @@ describe('Array', function () {
     });
   });
 });
+'hello'
